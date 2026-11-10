@@ -24,3 +24,7 @@ Solution: Creating a rating map allows students to collectively bring attention 
 ### User Guide
 
 (Page instructions and mockups here)
+
+Example of what a review on an elevator might look like:
+
+<img src="doc/example-review-mockup.png">
