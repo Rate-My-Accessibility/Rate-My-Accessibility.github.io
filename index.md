@@ -9,9 +9,11 @@ Solution: Creating a rating map allows students to collectively bring attention 
 
 [Github Organization](https://github.com/Rate-My-Accessibility)
 
-[Github Repository](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility.github.io)
+[App Repository](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility)
 
-[Documentation (this page)](https://rate-my-accessibility.github.io)
+[Documentation Repository](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility.github.io)
+
+[Documentation Site (this page)](https://rate-my-accessibility.github.io)
 
 ### Team Contract
 
