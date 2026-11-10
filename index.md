@@ -1,3 +1,5 @@
+### Rate My Accessibility
+
 ### Overview
 
 Problem: Accessibility features like elevators, wheelchair ramps, and accessible parking spaces are important parts of making the UH campuses accessible to everyone. However, not all of these features are well known across the campus nor are they of the same quality.
