@@ -1,6 +1,6 @@
 ### Rate My Accessibility
 
-### Overview
+<h1 align="center">Overview</h1>
 
 <strong>Problem:</strong> Accessibility features like elevators, wheelchair ramps, and accessible parking spaces are important parts of making the UH campuses accessible to everyone. However, not all of these features are well known across the campus nor are they of the same quality.
 
@@ -8,7 +8,7 @@
 
 <hr>
 
-### Project Links
+<h1 align="center">Project Links</h1>
 
 [Github Organization](https://github.com/Rate-My-Accessibility)
 
@@ -20,13 +20,13 @@
 
 <hr>
 
-### Team Contract
+<h1 align="center">Team Contract</h1>
 
 [Read our signed team contract](https://docs.google.com/document/d/1PwLfdrM0iN4LY57Lhffm3X8wBJvDrR92dHVqINEadZ0/edit?usp=sharing).
 
 <hr>
 
-### Deployment
+<h1 align="center">Deployment</h1>
 
 [Vercel Deployment]()
 
@@ -34,7 +34,7 @@ Custom domain at [uhm-rma.com](https://www.uhm-rma.com)
 
 <hr>
 
-### User Guide
+<h1 align="center">User Guide</h1>
 
 Landing Page: What you'll see when you open the webpage
 (Page instructions and mockups here)
@@ -58,7 +58,7 @@ Example of what a review on an elevator might look like:
 
 <hr>
 
-### Milestones
+<h1 align="center">Milestones</h1>
 
 [Milestone 1 Project Page](https://github.com/orgs/Rate-My-Accessibility/projects/1)
 
