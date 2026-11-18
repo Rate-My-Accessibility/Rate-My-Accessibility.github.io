@@ -29,7 +29,19 @@ Custom domain at [uhm-rma.com](https://www.uhm-rma.com)
 
 ### User Guide
 
+Landing Page: What you'll see when you open the webpage
 (Page instructions and mockups here)
+
+You can view the map and the reviews without logging in.
+
+In order to create reviews, you will need to sign up using your @hawaii.edu account.
+
+<img src="docs/uhm-rma_codeSentExample.png">
+
+You will be asked to input a verification code that you will receive in roughly 5 minutes to finalize the account creation process.
+Here is what the verification code email looks like:
+
+<img src="docs/uhm-rma_verificationEmailExample.png">
 
 Example of what a review on an elevator might look like:
 
