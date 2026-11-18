@@ -46,3 +46,9 @@ Here is what the verification code email looks like:
 Example of what a review on an elevator might look like:
 
 <img src="docs/example-review-mockup.png">
+
+### Milestones
+
+[Milestone 1 Project Page](https://github.com/orgs/Rate-My-Accessibility/projects/1)
+
+[Milestone 2 Project Page](https://github.com/orgs/Rate-My-Accessibility/projects/3/views/1)
