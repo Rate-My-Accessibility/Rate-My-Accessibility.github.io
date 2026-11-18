@@ -25,7 +25,7 @@ Solution: Creating a rating map allows students to collectively bring attention 
 
 [Vercel Deployment]()
 
-Custom domain at [uhm-rma.com](uhm-rma.com)
+Custom domain at [uhm-rma.com](https://www.uhm-rma.com)
 
 ### User Guide
 
