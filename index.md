@@ -65,7 +65,13 @@ Example of what a review on an elevator might look like:
 
 <img src="docs/example-review-mockup.png">
 
-If a location isn't already marked on the map, users will also have the option of putting in a new location request.
+This is an example of what the add Review form will look like
+
+<img src="docs/addReviewExample.png">
+
+You can also browse all your reviews
+
+<img src="docs/listReviewExample.png">
 
 <hr>
 
