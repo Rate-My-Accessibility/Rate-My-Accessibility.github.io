@@ -10,18 +10,21 @@ Our project aims to address these issues by creating an interactive accessibilit
 
 <h1 align="center">Project Links</h1>
 
-Here are our current project links to the repository and various documentation.
+Here are our current project links to the repository and various documentation:
 
-<ul>
-  <li>[Github Organization](https://github.com/Rate-My-Accessibility)</li>
-  <li>[App Repository](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility)</li>
-  <li>[Documentation Repository](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility.github.io)</li>
-  <li>[Documentation Site (this page)](https://rate-my-accessibility.github.io)</li>
-</ul>
+  [Github Organization](https://github.com/Rate-My-Accessibility) 
+  
+  [App Repository](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility) 
+  
+  [Documentation Repository](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility.github.io) 
+  
+  [Documentation Site (this page)](https://rate-my-accessibility.github.io) 
 
 <hr>
 
 <h1 align="center">Team Contract</h1>
+
+The team contract guarantees than everyone does their fair share of work.
 
 [Read our signed team contract](https://docs.google.com/document/d/1PwLfdrM0iN4LY57Lhffm3X8wBJvDrR92dHVqINEadZ0/edit?usp=sharing).
 
@@ -38,17 +41,17 @@ Custom domain at [uhm-rma.com](https://www.uhm-rma.com)
 <h1 align="center">User Guide</h1>
 Here's a quick introduction to the pages and how to get started with Rate My Accessibility.
 
-Landing Page: What you'll see when you open the webpage
+Landing Page: What you'll upon opening the webpage:
 
 <img src="docs/LandingPageExample.png">
 
-You can view the map and the reviews without logging in.
+Users are only allowed view the campus map and view past reviews if they have registered an account using their UH email.
 
-In order to create reviews, you will need to sign up using your @hawaii.edu account.
+In order to create reviews, you will also need to sign up using your @hawaii.edu account.
 
 <img src="docs/uhm-rma_codeSentExample.png">
 
-You will be asked to input a verification code that you will receive in roughly 5 minutes to finalize the account creation process.
+You will be prompted to input a verification code that you will receive in roughly 5 minutes to finalize the account creation process.
 Here is what the verification code email looks like:
 
 <img src="docs/uhm-rma_verificationEmailExample.png">
