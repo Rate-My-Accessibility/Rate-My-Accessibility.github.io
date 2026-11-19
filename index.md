@@ -1,10 +1,10 @@
-### Rate My Accessibility
+
 
 <h1 align="center">Overview</h1>
 
-<strong>Problem:</strong> Accessibility features like elevators, wheelchair ramps, and accessible parking spaces are important parts of making the UH campuses accessible to everyone. However, not all of these features are well known across the campus nor are they of the same quality.
+Accessibility features like elevators, wheelchair ramps, and accessible parking spaces are important parts of making the UH campuses accessible to everyone. However, not all of these features are well known across the campus nor are they of the same quality.
 
-<strong>Solution:</strong> Creating a rating map allows students to collectively bring attention to what works well on campus for people but also bring attention to what needs to be improved on campus.
+Creating a rating map allows students to collectively bring attention to what works well on campus for people but also bring attention to what needs to be improved on campus.
 
 <hr>
 
