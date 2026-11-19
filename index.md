@@ -77,6 +77,14 @@ You can also browse all your reviews
 
 <img src="docs/listReviewExample.png">
 
+<h3>Adding Suggestions</h3>
+
+A user can suggest a new accessibility feature, and it can be reviewed by an admin.
+
+<img src="docs/AddSuggestionPageExample.png">
+
+<img src="docs/AdminListSuggestionPageExample.png">
+
 <hr>
 
 <h1 align="center">Milestones</h1>
