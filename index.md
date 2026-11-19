@@ -88,8 +88,12 @@ You can also browse all your reviews
 <h1 align="center">Contact Us</h1>
 
 Mace Mori (mmori6@hawaii.edu)
+
 Donovan Tapper (tapperd@hawaii.edu)
+
 Maximo Vicente (maximovi@hawaii.edu) 
+
 Ian Kubo (iank9@hawaii.edu)
+
 Nathan Leung (nathankl@hawaii.edu) 
 
