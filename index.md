@@ -32,7 +32,7 @@ The team contract guarantees than everyone does their fair share of work.
 
 <h1 align="center">Deployment</h1>
 
-[Vercel Deployment](https://rate-my-accessibility-application-ean12734e-hmm-5d8f.vercel.app)
+[Vercel Deployment](https://rate-my-accessibility-application.vercel.app)
 
 Custom domain at [uhm-rma.com](https://www.uhm-rma.com)
 
