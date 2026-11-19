@@ -41,13 +41,13 @@ Custom domain at [uhm-rma.com](https://www.uhm-rma.com)
 <h1 align="center">User Guide</h1>
 Here's a quick introduction to the pages and how to get started with Rate My Accessibility.
 
-Landing Page: What you'll upon opening the webpage:
+Landing Page: What you'll see upon opening the webpage:
 
 <img src="docs/LandingPageExample.png">
 
 Users are only allowed view the campus map and view past reviews if they have registered an account using their UH email.
 
-In order to create reviews, you will also need to sign up using your @hawaii.edu account.
+<h3>Account Creation Process</h3>
 
 <img src="docs/uhm-rma_codeSentExample.png">
 
