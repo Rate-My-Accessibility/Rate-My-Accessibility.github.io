@@ -60,6 +60,10 @@ This is the main homepage. You can add a review, browse all reviews, view the ca
 
 <img src="docs/HomepageExample.png">
 
+You can browse elevators on the list page to view their AccessScore values, see representative images, and later open their individual pages to add reviews.
+
+<img src="docs/elevatorlistpage.png">
+
 You can add reviews by selecting a location on the map and rate its features as well as provide a short written description.
 Example of what a review on an elevator might look like:
 
