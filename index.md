@@ -36,9 +36,9 @@ Custom domain at [uhm-rma.com](https://www.uhm-rma.com)
 <hr>
 
 <h1 align="center">User Guide</h1>
+Here's a quick introduction to the pages and how to get started with Rate My Accessibility.
 
 Landing Page: What you'll see when you open the webpage
-(Page instructions and mockups here)
 
 <img src="docs/LandingPageExample.png">
 
@@ -53,9 +53,12 @@ Here is what the verification code email looks like:
 
 <img src="docs/uhm-rma_verificationEmailExample.png">
 
+You can add reviews by selecting a location on the map and rate its features as well as provide a short written description.
 Example of what a review on an elevator might look like:
 
 <img src="docs/example-review-mockup.png">
+
+If a location isn't already marked on the map, users will also have the option of putting in a new location request.
 
 <hr>
 
