@@ -83,8 +83,6 @@ A user can suggest a new accessibility feature, and it can be reviewed by an adm
 
 <img src="docs/AddSuggestionPageExample.png">
 
-<img src="docs/AdminListSuggestionPageExample.png">
-
 <hr>
 
 <h1 align="center">Milestones</h1>
