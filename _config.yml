@@ -2,7 +2,7 @@ title: Rate My Accessibility
 description: Rate accessibility features on the UHM Campus
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-minima
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
