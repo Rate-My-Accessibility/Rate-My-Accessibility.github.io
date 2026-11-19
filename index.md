@@ -56,6 +56,10 @@ Here is what the verification code email looks like:
 
 <img src="docs/uhm-rma_verificationEmailExample.png">
 
+This is the main homepage. You can add a review, browse all reviews, view the campus map, and view your user profile:
+
+<img src="docs/HomepageExample.png">
+
 You can add reviews by selecting a location on the map and rate its features as well as provide a short written description.
 Example of what a review on an elevator might look like:
 
