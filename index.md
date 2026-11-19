@@ -2,21 +2,22 @@
 
 <h1 align="center">Overview</h1>
 
-Accessibility features like elevators, wheelchair ramps, and accessible parking spaces are important parts of making the UH campuses accessible to everyone. However, not all of these features are well known across the campus nor are they of the same quality.
+Accessibility is an important part of creating an inclusive and welcoming environment for everyone at the University of Hawaiʻi campuses. Features such as elevators, wheelchair ramps, accessible parking spaces, and pathways help students, faculty, and visitors navigate campus safely and comfortably. However, not all accessibility features are easy to locate, and their conditions may vary across campus. Some may be difficult to use, poorly maintained, or not widely known, making it challenging for individuals to find accessible routes and facilities.
 
-Creating a rating map allows students to collectively bring attention to what works well on campus for people but also bring attention to what needs to be improved on campus.
+Our project aims to address these issues by creating an interactive accessibility rating map that allows students and other campus members to locate, review, and rate accessibility features throughout the UH campuses. By sharing their experiences, users can help others identify reliable accessibility options while also highlighting areas that need improvement. Through community participation, this map will provide useful information about campus accessibility and encourage improvements that make UH campuses more accessible and inclusive for everyone.
 
 <hr>
 
 <h1 align="center">Project Links</h1>
 
-[Github Organization](https://github.com/Rate-My-Accessibility)
+Here are our current project links to the repository and various documentation.
 
-[App Repository](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility)
-
-[Documentation Repository](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility.github.io)
-
-[Documentation Site (this page)](https://rate-my-accessibility.github.io)
+<ul>
+  <li>[Github Organization](https://github.com/Rate-My-Accessibility)</li>
+  <li>[App Repository](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility)</li>
+  <li>[Documentation Repository](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility.github.io)</li>
+  <li>[Documentation Site (this page)](https://rate-my-accessibility.github.io)</li>
+</ul>
 
 <hr>
 
