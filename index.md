@@ -84,3 +84,12 @@ You can also browse all your reviews
 [Milestone 1 Project Page](https://github.com/orgs/Rate-My-Accessibility/projects/1)
 
 [Milestone 2 Project Page](https://github.com/orgs/Rate-My-Accessibility/projects/3/views/1)
+
+<h1 align="center">Contact Us</h1>
+
+Mace Mori (mmori6@hawaii.edu)
+Donovan Tapper (tapperd@hawaii.edu)
+Maximo Vicente (maximovi@hawaii.edu) 
+Ian Kubo (iank9@hawaii.edu)
+Nathan Leung (nathankl@hawaii.edu) 
+
