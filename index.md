@@ -91,6 +91,8 @@ A user can suggest a new accessibility feature, and it can be reviewed by an adm
 
 [Milestone 2 Project Page](https://github.com/orgs/Rate-My-Accessibility/projects/3/views/1)
 
+[![Rate My Accessibility CI](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility-Application/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Rate-My-Accessibility/Rate-My-Accessibility-Application/actions/workflows/ci.yml)
+
 <h1 align="center">Contact Us</h1>
 
 Mace Mori (mmori6@hawaii.edu)
